@@ -3,7 +3,8 @@ module.exports = [
         id: "bD7bpG-zDJQ",
         title: "Star Wars Episode I: The Phantom Menace - Trailer",
         duration: "2:13 min",
-        price: "Free"
+        price: "Free",
+        featured: true
     },
     {
         id: "gYbW1F_c9eM",
@@ -15,7 +16,8 @@ module.exports = [
         id: "5UnjrG_N8hU",
         title: "Star Wars Episode III: Revenge of the Sith - Trailer",
         duration: "2:30 min",
-        price: "Free"
+        price: "Free",
+        featured: true
     },
     {
         id: "vZ734NWnAHA",
@@ -27,7 +29,8 @@ module.exports = [
         id: "JNwNXF9Y6kY",
         title: "Star Wars Episode V: The Empire Strikes Back - Trailer",
         duration: "2:07 min",
-        price: "Free"
+        price: "Free",
+        featured: true
     },
     {
         id: "5UfA_aKBGMc",
